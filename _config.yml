@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My website
+title: Jang03s
 
 # Your name to show in the footer
-author: Some Person
+author: Sunny Jang
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Ewha Univ. Sophomore"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Github id : "github.com/Jangs03"
+    - velog page : "https://velog.io/@jangs03/posts"
+ 
 
 ################
 # --- Logo --- #
